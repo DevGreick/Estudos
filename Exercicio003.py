@@ -3,4 +3,3 @@
 numero1 = input('digite o primeiro numero')
 numero2 = input ('digite o segundo numero')
 print(numero1 + numero2)
- 
