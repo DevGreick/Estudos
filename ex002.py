@@ -1,3 +1,5 @@
+
+# Questionario 2 printar nome e a data de nascimento
 nome = input('Qual o seu nome?')
 mes = input('Que mes vc nasceu?')
 ano = input ('em que ano voce nasceu')
