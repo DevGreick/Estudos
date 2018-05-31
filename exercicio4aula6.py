@@ -1,4 +1,4 @@
-#Digitar algo e que apareca o formato e seus atributos
+#Digitar algo e que apareca o formato e seus atributos completos
 algo = input('digite algo para comparar')
 print(type('o valor e {}'.format(algo)))
 print('e alfanumerico',algo.isalnum())
