@@ -1,4 +1,2 @@
 import emoji
-print(emoji.emojize('Ola mundo :earth_americas:', use_aliases=True))
-
-
+print(emoji.emojize('hello mundo :thumbs_up:'))
